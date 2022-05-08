@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.6",
+    "init": "^0.1.2",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "sanitize-html": "^2.5.1"
+  }
+}
